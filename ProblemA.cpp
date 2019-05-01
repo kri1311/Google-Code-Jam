@@ -1,6 +1,6 @@
 /*
  * Author :Krishna
- * Problem Code:  Tic-Tac-Toe 
+ * Problem A:  Tic-Tac-Toe 
  * Programming Language : C++
 */
 
