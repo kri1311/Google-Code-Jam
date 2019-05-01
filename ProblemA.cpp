@@ -1,5 +1,5 @@
 /*
- * Author :Krishna Kumar Tiwari
+ * Author :Krishna
  * Problem Code:  Tic-Tac-Toe 
  * Programming Language : C++
 */
